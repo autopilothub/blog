@@ -1,0 +1,4 @@
+[submodule "autopilothub.github.io"]
+	path = autopilothub.github.io
+	url = https://github.com/autopilothub/autopilothub.github.io.git
+	branch = master
